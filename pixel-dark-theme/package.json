@@ -1,0 +1,21 @@
+{
+    "name": "pixel-dark-theme",
+    "displayName": "Pixel Dark Theme",
+    "description": "A visible and dynamic theme ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pixel Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pixel Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
